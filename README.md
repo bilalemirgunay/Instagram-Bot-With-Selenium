@@ -1,4 +1,4 @@
-# Instagram-Bot-With-Selenium
+# Instagram Bot With Selenium
 * Get followers
 * Get follows
 * Get unfollows
